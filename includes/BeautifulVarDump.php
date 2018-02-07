@@ -15,7 +15,7 @@
  *
  * @version 1.0
  * @author Ata Sajedi ata_sajedi@yahoo.com
- * $source
+ * @source https://github.com/ata24/Beautiful-var_dump
  */
 class BeautifulVarDump
 {
