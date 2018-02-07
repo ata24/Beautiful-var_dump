@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: ATA
- * Date: 2/7/2018
- * Time: 8:28 PM
- */
-
 
 /**
  * Class B_var_dump
@@ -48,7 +41,7 @@ class BeautifulVarDump
     }
 
     /**
-     * B_var_dump constructor.
+     * BeautifulVarDump constructor.
      */
     public function __construct()
     {
@@ -253,12 +246,8 @@ class BeautifulVarDump
     }
 }
 
-
-
 function b_v_d($v)
 {
     $bvd_obj = BeautifulVarDump::get_instance();
-
     echo $bvd_obj::start($v);
-    //echo 'sdafdsafgdsagasfdg';
 }
