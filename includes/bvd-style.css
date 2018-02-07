@@ -1,0 +1,75 @@
+.b_var_dump {
+    border: 1px solid #c2c2c2;
+}
+
+.b_var_dump div {
+    margin-left: 20px;
+}
+
+.b_var_dump .bvd_first_row {
+    border-top: 1px solid #c2c2c2;
+    border-bottom: 1px solid #c2c2c2;
+    background-color: rgba(248, 248, 248, 0.9);
+    margin-bottom: 10px;
+}
+
+.b_var_dump .bvd_first_row > div {
+    border-left: 2px solid #a7a7a7;
+    margin: 0;
+}
+
+.b_var_dump .bvd_2_row {
+    background-color: rgba(255, 210, 210, 0.1);
+}
+
+.b_var_dump .bvd_2_row > div {
+    border: 1px solid #f4e9e9;
+    border-left: 2px solid #d38f8f;
+    margin: 4px 0;
+}
+
+.b_var_dump .bvd_3_row {
+    background-color: rgba(174, 240, 174, 0.1);
+}
+
+.b_var_dump .bvd_3_row > div {
+    border: 1px solid #def2de;
+    border-left: 2px solid #9fc1a0;
+    margin: 4px 0;
+}
+
+.b_var_dump .bvd_4_row {
+    background-color: rgba(200, 200, 252, 0.1);
+}
+
+.b_var_dump .bvd_4_row > div {
+    border: 1px solid #d8dbf6;
+    border-left: 2px solid #a3a6c7;
+    margin: 4px 0;
+}
+
+.b_var_dump .bvd_5_row {
+    background-color: rgba(220, 177, 215, 0.1);
+}
+
+.b_var_dump .bvd_5_row > div {
+    border: 1px solid #e0d3de;
+    border-left: 2px solid #c7a3c3;
+    margin: 4px 0;
+}
+
+.b_var_dump.b_var_dump p {
+    padding: 0 0 0 5px !important;
+    margin: 0 !important;
+    color: #5f5f53;
+}
+
+.b_var_dump.b_var_dump p.bvp_value {
+    color: blue;
+    padding-left: 30px !important;
+}
+
+.b_var_dump.b_var_dump p.bvp_value_empty {
+    color: red;
+    padding-left: 30px !important;
+}
