@@ -14,6 +14,7 @@
  * in visualized and user-friendly style
  *
  * @version 1.0
+ * @version 1.1
  * @author Ata Sajedi ata_sajedi@yahoo.com
  * @source https://github.com/ata24/Beautiful-var_dump
  */
